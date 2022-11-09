@@ -1,0 +1,19 @@
+homework002.Student isimli bir sınıf tasarlanmalıdır.
+
+Öğrenciye ait bilgiler şunlar olacaktır;
+
+firstName:String
+lastName:String
+age:int
+grades:int[ ]
+Tasarlanması gereken metotlar şunlardır;
+
+showInfo():void--> Örnek; Ahmet Dursun [47]
+getGPA():double--> grades içerisine verilmiş olan notların ortalaması döndürülecektir.
+homework002.Student():constructor--> Parametrik kullanımı isteğe bağlıdır. İsteyen yapabilir.
+Program sınıfı - main metodu içerisinde;
+
+İki adet homework002.Student nesnesi oluşturulacak ve gerekli atamalar yapılacaktır. Daha sonra iki öğrencinin
+not ortalaması karşılaştırılıp büyük olan ekrana yazdırılacaktır.
+
+Not: Klavyeden okuma yapmayınız.
