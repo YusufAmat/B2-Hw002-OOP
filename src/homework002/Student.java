@@ -51,7 +51,7 @@ public class Student {
     }
 
     public void showInfo() {
-        System.out.printf("%s %s %d\n", getFirstName(), getLastName(), getAge());
+        System.out.printf("%s %s \t[%d]\n", getFirstName(), getLastName(), getAge());
     }
 
     public double getGPA() {
